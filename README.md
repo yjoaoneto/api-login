@@ -9,4 +9,6 @@ useAuth: Simplifica o acesso ao AuthContext para componentes que precisem autent
 
 A parte de cada elemento foi separado em pastas como "Button", "Signin", "Signup",etc, para melhor organização e possível alterações futuras. 
 
+O projeto pode ser iniciado em servidor local com o comando yarn start (após as biliotecas necessárias serem instaladas)
+
 # api-login with yarn
